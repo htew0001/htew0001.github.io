@@ -2,16 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>hwa.tew [at] monash.edu </p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +25,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! I am a third-year PhD at Monash University Malaysia, working on research in **generative ML for time-series data**. Outside of research, I like to play piano and eat good food. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am currently a member of the [MedAI-Hub](https://sites.google.com/monash.edu/medai-hub), where I develop **generative ML frameworks** for **brain signal analysis**, with a focus on signal-processing perspectives for time-series modeling. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research centers on generative modeling in signal-processing domains for time-series applications. To date, I have authored two first-author papers in top-tier venues (ICLR and IEEE TII), along with additional publications in conferences such as MICCAI, ICASSP and etc. One manuscript is currently under review. 
+
+I am actively seeking visiting PhD opportunities. If you are working on or interested in generative modeling, time-series analysis, or brain signal research, I would be happy to connect!
