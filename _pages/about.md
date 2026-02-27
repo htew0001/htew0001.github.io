@@ -29,6 +29,6 @@ Hi! I am a third-year PhD at Monash University Malaysia, working on research in 
 
 I am currently a member of the [MedAI-Hub](https://sites.google.com/monash.edu/medai-hub), where I develop **generative ML frameworks** for **brain signal analysis**, with a focus on signal-processing perspectives for time-series modeling. 
 
-My research centers on generative modeling in signal-processing domains for time-series applications. To date, I have authored two first-author papers in top-tier venues (ICLR and IEEE TII), along with additional publications in conferences such as MICCAI, ICASSP and etc. One manuscript is currently under review. 
+To date, I have authored two first-author papers in top-tier venues (ICLR and IEEE TII), along with additional publications in conferences such as MICCAI, ICASSP and etc. One manuscript is currently under review. 
 
 I am actively seeking visiting PhD opportunities. If you are working on or interested in generative modeling, time-series analysis, or brain signal research, I would be happy to connect!
