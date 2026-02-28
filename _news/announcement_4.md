@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One (1) work accepted in IEEE ISBI 2026 ! 🧠
+One (1) work accepted at IEEE ISBI 2026 ! 🧠
