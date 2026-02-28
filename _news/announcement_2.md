@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One (1) work accepted in IEEE TII ! 🎰
+One (1) work accepted at IEEE TII ! 🎰
