@@ -440,16 +440,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
             },},{id: "news-one-1-work-accepted-in-iclr-2026-sparkles-smile",
           title: 'One (1) work accepted in ICLR 2026. :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-one-1-work-accepted-in-iclr-2026-looking-forward-to-presenting-in-rio-brazil",
+          title: 'One (1) work accepted in ICLR 2026. Looking forward to presenting in Rio,...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
