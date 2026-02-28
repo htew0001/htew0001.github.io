@@ -391,8 +391,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-one-1-work-accepted-in-ieee-tii",
-          title: 'One (1) work accepted in IEEE TII ! 🎰',
+            },},{id: "news-one-1-work-accepted-at-ieee-tii",
+          title: 'One (1) work accepted at IEEE TII ! 🎰',
           description: "",
           section: "News",},{id: "news-one-1-work-accepted-in-ieee-icassp-2026",
           title: 'One (1) work accepted in IEEE ICASSP 2026 ! 🩸🔬',
