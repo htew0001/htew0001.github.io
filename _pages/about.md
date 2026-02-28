@@ -27,10 +27,10 @@ latest_posts:
 
 Hi! I am a third-year PhD at Monash University Malaysia, working on research in **generative ML for time-series application**. Outside of research, I enojoy playing piano and exploring good food. 
 
-I am currently a member of the [MedAI-Hub](https://sites.google.com/monash.edu/medai-hub), where I develop **generative ML frameworks** for **brain signals**, with a focus to improve downstream classification of human brain networks associated with neuropsychiatric disorders.  
+I am currently a member of the [MedAI-Hub](https://sites.google.com/monash.edu/medai-hub), where I develop **generative ML frameworks** for **brain signal**, with a focus to improve downstream classification of human brain networks associated with neuropsychiatric disorders.  
 
-During my first year of PhD, my business partner and I founded *TT Engineering*, providing bespoke full-stack automation solutions. After completing several projects, including our final project in Nilai, Seremban, we decided to conclude operations due to challenges in scaling. I then chose to fully dedicate my efforts to my PhD research. 
+During my first year of PhD, my business partner and I founded **TT Engineering**, providing bespoke full-stack automation solutions. After completing several projects, including our final project in Nilai, Seremban, we decided to conclude operations due to challenges in scaling. I then chose to fully dedicate my efforts to my PhD research. 
 
-To date, I have authored two first/co-first  author papers in top-tier venues (ICLR and IEEE TII), along with additional publications in journals and conferences such as MICCAI, TMLR, ICASSP and etc.
+To date, I have authored/co-authored two first/co-first author papers in top-tier venues (ICLR and IEEE TII), along with additional publications in journals and conferences such as MICCAI, TMLR, ICASSP, ISBI and etc.
 
 I am actively seeking visiting PhD opportunities. If you are working on or interested in generative modeling and brain signal research, I would be happy to connect!
