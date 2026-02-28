@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I am a third-year PhD at Monash University Malaysia, working on research in **generative ML for time-series application** with my supervisors: [Dr.Loo](https://scholar.google.com/citations?user=PsL3CMYAAAAJ&hl=en),  [Dr.Ting](https://scholar.google.com.my/citations?user=z_BmSq4AAAAJ&hl=en), [Dr.Ding](https://scholar.google.com.my/citations?user=z_BmSq4AAAAJ&hl=en). Outside of research, I enojoy playing piano and exploring good food. 
+Hi! I am a third-year PhD at Monash University Malaysia, working on research in **generative ML for time-series application** with my supervisors: [Dr.Loo](https://scholar.google.com/citations?user=PsL3CMYAAAAJ&hl=en),  [Dr.Ting](https://scholar.google.com.my/citations?user=z_BmSq4AAAAJ&hl=en), [Dr.Ding](https://scholar.google.com/citations?hl=en&user=3SxSwVkAAAAJ&view_op=list_works&sortby=pubdate). Outside of research, I enojoy playing piano and exploring good food. 
 
 I am currently a member of the [MedAI-Hub](https://sites.google.com/monash.edu/medai-hub), where I develop **generative ML frameworks** for **brain signal**, with a focus to improve downstream classification of human brain networks associated with neuropsychiatric disorders.  
 
