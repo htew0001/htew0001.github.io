@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Name: **Tew** Hwa Hui **张**华恢 </p>
+    <p>Name: **Tew** Hwa Hui (**张**华恢) </p>
     <p>Email: hwa.tew [at] monash.edu </p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
