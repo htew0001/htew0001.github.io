@@ -450,7 +450,7 @@ ninja.data = [{
           title: 'One (1) work accepted in IEEE ISBI 2026 ! 🧠',
           description: "",
           section: "News",},{id: "news-one-1-work-accepted-in-iclr-2026-looking-forward-to-presenting-in-rio-brazil",
-          title: 'One (1) work accepted in ICLR 2026. Looking forward to presenting in Rio,...',
+          title: 'One (1) work accepted in ICLR 2026. 🤯🧠 Looking forward to presenting in...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
