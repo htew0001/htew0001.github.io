@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-26
+date: 2016-01-15
 inline: true
 related_posts: false
 ---
 
-One (1) work accepted in ICLR 2026. :sparkles: :smile:
+One (1) work accepted in IEEE TII ! 🎰
