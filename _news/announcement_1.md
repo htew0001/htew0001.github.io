@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2026-1-26 
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+One (1) work accepted in ICLR 2026. Looking forward to presenting in Rio, Brazil 🦜🐠!
