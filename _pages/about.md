@@ -25,10 +25,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I am a third-year PhD at Monash University Malaysia, working on research in **generative ML for time-series data**. Outside of research, I like to play piano and eat good food. 
+Hi! I am a third-year PhD at Monash University Malaysia, working on research in **generative ML for time-series application**. Outside of research, I enojoy playing piano and exploring good food. 
 
-I am currently a member of the [MedAI-Hub](https://sites.google.com/monash.edu/medai-hub), where I develop **generative ML frameworks** for **brain signal analysis**, with a focus on signal-processing perspectives for time-series modeling. 
+I am currently a member of the [MedAI-Hub](https://sites.google.com/monash.edu/medai-hub), where I develop **generative ML frameworks** for **brain signals**, with a focus to improve downstream classification of human brain networks associated with neuropsychiatric disorders.  
 
-To date, I have authored two first-author papers in top-tier venues (ICLR and IEEE TII), along with additional publications in conferences such as MICCAI, ICASSP and etc. One manuscript is currently under review. 
+During my first year of PhD, my business partner and I founded *TT Engineering*, providing bespoke full-stack automation solutions. After completing several projects, including our final project in Nilai, Seremban, we decided to conclude operations due to challenges in scaling. I then chose to fully dedicate my efforts to my PhD research. 
 
-I am actively seeking visiting PhD opportunities. If you are working on or interested in generative modeling, time-series analysis, or brain signal research, I would be happy to connect!
+To date, I have authored two first/co-first  author papers in top-tier venues (ICLR and IEEE TII), along with additional publications in journals and conferences such as MICCAI, TMLR, ICASSP and etc. One manuscript is currently under review. 
+
+I am actively seeking visiting PhD opportunities. If you are working on or interested in generative modeling and brain signal research, I would be happy to connect!
