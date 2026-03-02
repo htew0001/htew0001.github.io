@@ -76,5 +76,51 @@ layout: default
     {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
       {% include newsletter.liquid center=true %}
     {% endif %}
+
+    <!-- Visitor Map -->
+    <div class="visitor-map text-center mt-4" id="visitor-map-container"></div>
+    <script>
+      (function() {
+        // Map URLs for different themes
+        const lightMapUrl = "https://mapmyvisitors.com/map.png?d=uCexwfrJ-7bL7ZHXVJ6Qx-_wmqwtFVVIRg6aGnuwid8&cl=ffffff";
+        const darkMapUrl = "https://mapmyvisitors.com/map.png?d=uCexwfrJ-7bL7ZHXVJ6Qx-_wmqwtFVVIRg6aGnuwid8&cl=ffffff";
+
+        function loadVisitorMap() {
+          const container = document.getElementById('visitor-map-container');
+          if (!container) return;
+
+          // Clear existing map
+          container.innerHTML = '';
+
+          // Get current theme
+          const theme = determineComputedTheme();
+          const mapUrl = theme === 'dark' ? darkMapUrl : lightMapUrl;
+
+          // Create and append script
+          const script = document.createElement('script');
+          script.type = 'text/javascript';
+          script.id = 'mapmyvisitors';
+          script.src = mapUrl;
+          container.appendChild(script);
+        }
+
+        // Load map when page is ready
+        if (document.readyState === 'loading') {
+          document.addEventListener('DOMContentLoaded', loadVisitorMap);
+        } else {
+          loadVisitorMap();
+        }
+
+        // Reload map when theme changes
+        document.addEventListener('DOMContentLoaded', function() {
+          const themeToggle = document.getElementById('light-toggle');
+          if (themeToggle) {
+            themeToggle.addEventListener('click', function() {
+              setTimeout(loadVisitorMap, 100);
+            });
+          }
+        });
+      })();
+    </script>
   </article>
 </div>
