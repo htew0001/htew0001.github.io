@@ -34,4 +34,4 @@ During my first year of PhD, my business partner and I founded **TT Engineering*
 
 To date, I have authored/co-authored two first/co-first author papers in top-tier venues (ICLR and IEEE TII), along with additional publications in journals and conferences such as MICCAI, TMLR, ICASSP, ISBI and etc.
 
-I am actively seeking visiting PhD opportunities. If you are working on or interested in generative modeling and functional neuroimaging research, I would be happy to connect!
+I am seeking **visiting PhD opportunities** for **Nov2026-Jan2027**. If you are working on or interested in generative modeling and functional neuroimaging research, I would be happy to connect!
