@@ -32,6 +32,6 @@ I am currently a member of the [MedAI-Hub](https://sites.google.com/monash.edu/m
 
 During my first year of PhD, my business partner and I founded **TT Engineering**, providing bespoke full-stack automation solutions. After completing several projects, including our final project in Nilai, Seremban, we decided to conclude operations due to challenges in scaling. I then chose to fully dedicate my efforts to my PhD research. 
 
-To date, I have authored/co-authored one first author paper in top-tier venues (ICLR), along with additional publications in journals and conferences such as IEEE TII, MICCAI, TMLR, ICASSP, ISBI and etc.
+To date, I have authored/co-authored publications in journals and conferences such as ICLR, IEEE TII, MICCAI, TMLR, ICASSP, ISBI and etc.
 
 I am seeking **visiting PhD opportunities** for **Nov2026-Jan2027**. If you are working on or interested in generative modeling and functional neuroimaging research, I would be happy to connect!
